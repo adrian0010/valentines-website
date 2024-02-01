@@ -4,7 +4,7 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color: aquamarine;
-    background-image: url('/mnt/Files/Projects/valentines-website/img/background.jpeg'); /* Path to your background image */
+    background-image: url('img/background.jpeg'); /* Path to your background image */
     background-size: cover; /* Cover the entire viewport */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent background image from repeating */
