@@ -12,6 +12,10 @@ body {
     margin: 0; /* Remove default body margin */
 }
 
+/* Center the image */
+.image-container {
+    text-align: center;   
+}
 
 /* Header Styles */
 header {
