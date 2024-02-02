@@ -3,8 +3,8 @@
 /* Set Background */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: aquamarine;
-    background-image: url('https://adrian0010.github.io/valentines-website/img/background.jpeg'); /* Path to your background image */
+    background-color: rgba(255, 47, 120, 0.386);
+    background-image: url('https://hips.hearstapps.com/hmg-prod/images/valentines-day-zoom-backgrounds-hearts-1643038425.jpeg?crop=1xw:1xh;center,top&resize=980:*'); /* Path to your background image */
     background-size: cover; /* Cover the entire viewport */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent background image from repeating */
